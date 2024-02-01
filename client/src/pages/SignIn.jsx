@@ -52,7 +52,7 @@ export default function SignIn() {
             Blog
         </Link>
         <p className='text-sm mt-5'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illum voluptate odit maiores commodi deleniti.
+          This is a Demo Project. Please feel free to sign in with your email and password or with Google.
         </p>
         </div>
         {/* Right Div */}

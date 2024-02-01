@@ -51,7 +51,7 @@ export default function SignUp() {
             Blog
         </Link>
         <p className='text-sm mt-5'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic illum voluptate odit maiores commodi deleniti.
+        This is a Demo Project. Please feel free to create an account or sign up with your Google account.
         </p>
         </div>
         {/* Right Div */}
