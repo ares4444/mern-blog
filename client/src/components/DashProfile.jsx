@@ -3,8 +3,8 @@ import { useEffect, useRef, useState,} from 'react';
 import {useSelector} from 'react-redux';
 import {getDownloadURL, getStorage, ref, uploadBytesResumable} from 'firebase/storage';
 import { CircularProgressbar } from 'react-circular-progressbar';
-import { HiOutlineExclamationCircle } from "react-icons/hi2";
 import 'react-circular-progressbar/dist/styles.css';
+import { HiOutlineExclamationCircle } from "react-icons/hi2";
 import {app} from '../firebase'
 import { 
     updateStart, 
